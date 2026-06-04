@@ -1,0 +1,6 @@
+flask      # creates the web server
+youtube-transcript-api  # fetches YouTube subtitles
+groq      # connects to Groq AI
+python-dotenv  # reads .env secret file
+requests  # makes HTTP calls
+streamlit  # creates the web interface
