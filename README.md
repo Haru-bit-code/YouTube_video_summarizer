@@ -12,7 +12,7 @@
 
 [🚀 Live Demo](https://youtubevideosummarizer-myzblgswtunneuk69m6eig.streamlit.app) · [🐛 Report Bug](https://github.com/haru-bit-code/youtube-summarizer/issues) · [✨ Request Feature](https://github.com/haru-bit-code/youtube-summarizer/issues)
 
-![App Demo](![alt text](image-2.png))
+![App Demo](assets/demo.png)
 
 </div>
 
